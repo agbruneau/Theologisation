@@ -1,7 +1,3 @@
-Absolument. Voici une proposition de fichier `README.md` rédigé dans la perspective de l'assistant "Théologisation", qui explique la nature et l'utilisation de cette collection de ressources théologiques.
-
----
-
 # Théologisation : Bibliothèque Théologique Fondamentale
 
 ## 1. Objectif de ce Dépôt
